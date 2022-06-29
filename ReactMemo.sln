@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReactMemo", "ReactMemo\ReactMemo.vbproj", "{EF5F7806-B47D-461E-9A16-338C9EDEEAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "Project1\Project1.csproj", "{658C8A0A-52F9-40C8-96CB-BD1B57362F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5F7806-B47D-461E-9A16-338C9EDEEAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5F7806-B47D-461E-9A16-338C9EDEEAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5F7806-B47D-461E-9A16-338C9EDEEAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5F7806-B47D-461E-9A16-338C9EDEEAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658C8A0A-52F9-40C8-96CB-BD1B57362F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658C8A0A-52F9-40C8-96CB-BD1B57362F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658C8A0A-52F9-40C8-96CB-BD1B57362F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658C8A0A-52F9-40C8-96CB-BD1B57362F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3CCF277-87B0-41A9-8F36-6E1B0827C27F}
+	EndGlobalSection
+EndGlobal
